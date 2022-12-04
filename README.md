@@ -1,7 +1,7 @@
 # Projeto_SIN_393_Visao_Computacional
 Projeto de classificação desenvolvido durante a disciplina SIN 393 - Visão Computacional.
 
-Nome: **Thiago Mendes Rodrigues - 5959**
+Nome: **Thiago Mendes Rodrigues - 5959** <br>
       **Gabriel Alves Resende Rocha - 5988**
 
 Esse projeto consiste em classificar um subconjunto de imagens do dataset MPEG-7_lite gerado a partir do conjunto MPEG7_CE-Shape-
@@ -9,9 +9,9 @@ Esse projeto consiste em classificar um subconjunto de imagens do dataset MPEG-7
 
 **O projeto foi executado em um ambiente criado da seguinte forma:** 
 
-$ conda create –n env-proj1-393-py38 python=3.8
-$ conda activate env-proj1-393-py38
-$ **pip install scikit-learn==1.1.3**
+$ conda create –n env-proj1-393-py38 python=3.8 <br>
+$ conda activate env-proj1-393-py38 <br>
+$ **pip install scikit-learn==1.1.3** <br>
 $ pip install scikit-image==0.19.3
 $ pip install matplotlib==3.6.0
 $ pip install pandas==1.5.1
