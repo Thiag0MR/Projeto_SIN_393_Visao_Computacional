@@ -1,7 +1,7 @@
 # Projeto_SIN_393_Visao_Computacional
 Projeto de classificação desenvolvido durante a disciplina SIN 393 - Visão Computacional.
 
-Nome: 
+Nome: <br>
 **Thiago Mendes Rodrigues - 5959** <br>
 **Gabriel Alves Resende Rocha - 5988**
 
