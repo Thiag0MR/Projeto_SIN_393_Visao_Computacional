@@ -6,7 +6,7 @@ Nome: <br>
 **Gabriel Alves Resende Rocha - 5988**
 
 Esse projeto consiste em classificar um subconjunto de imagens do dataset MPEG-7_lite gerado a partir do conjunto MPEG7_CE-Shape-
-1_Part_B. Foram testados 3 classificadores: KNN, Bayes e SVM. Dentre os três, o que apresentou melhores resultados foi o SVM, com 98% de acurária.
+1_Part_B. Foram testados 3 classificadores: KNN, Bayes e SVM. Dentre os três, o que apresentou melhores resultados foi o SVM.
 
 **O projeto foi executado em um ambiente criado da seguinte forma:** 
 
@@ -18,6 +18,5 @@ $ pip install matplotlib==3.6.0 <br>
 $ pip install pandas==1.5.1 <br>
 $ pip install seaborn==0.12.1 <br>
 $ pip install notebook==6.5.1 <br>
-$ **pip install opencv==4.6.0** <br>
 
-Em negrito encontra-se as bibliotecas adicionais. O projeto foi criado e testado no jupyter-notebook.
+Em vez da biblioteca sklearn foi utilizado a biblioteca scikit-learn. O projeto foi criado e testado no jupyter-notebook.
